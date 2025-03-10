@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "First Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-1.webp"
+    },
+    {
+      "id": "2",
+      "title": "Second Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-2.webp"
+    },
+    {
+      "id": "3",
+      "title": "Third Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-3.webp"
+    },
+    {
+      "id": "4",
+      "title": "Fourth Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-4.webp"
+    },
+    {
+      "id": "5",
+      "title": "Fifth Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-5.webp"
+    },
+    {
+      "id": "6",
+      "title": "Sixth Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-6.webp"
+    },
+    {
+      "id": "7",
+      "title": "Seventh Plant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+      "photo": "/src/images/Plant-7.webp"
+    }
+  ]
+}
